@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Arkanumduels/blood-on-snow-builder/static/css/main.2d773409.css",
-    "main.js": "/Arkanumduels/blood-on-snow-builder/static/js/main.f6603593.js",
+    "main.js": "/Arkanumduels/blood-on-snow-builder/static/js/main.86fd3982.js",
     "static/js/488.dc40717e.chunk.js": "/Arkanumduels/blood-on-snow-builder/static/js/488.dc40717e.chunk.js",
     "index.html": "/Arkanumduels/blood-on-snow-builder/index.html",
     "main.2d773409.css.map": "/Arkanumduels/blood-on-snow-builder/static/css/main.2d773409.css.map",
-    "main.f6603593.js.map": "/Arkanumduels/blood-on-snow-builder/static/js/main.f6603593.js.map",
+    "main.86fd3982.js.map": "/Arkanumduels/blood-on-snow-builder/static/js/main.86fd3982.js.map",
     "488.dc40717e.chunk.js.map": "/Arkanumduels/blood-on-snow-builder/static/js/488.dc40717e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d773409.css",
-    "static/js/main.f6603593.js"
+    "static/js/main.86fd3982.js"
   ]
 }
